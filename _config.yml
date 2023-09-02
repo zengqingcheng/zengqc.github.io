@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qingcheng Zeng / Personal Homepage"
+title                    : "Qingcheng Zeng"
 title_separator          : "-"
 name                     : &name "Qingcheng Zeng"
 description              : &description "no one"
