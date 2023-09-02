@@ -8,6 +8,6 @@ citation: 'Q. Zeng, L. Xi. (2023). &quot;Hausdorff dimension of a family of netw
 ---
 This paper is about a fractal dimension on networks.
 
-[Download paper here](http://academicpages.github.io/files/230202.pdf)
+[Download paper here](http://zengqingcheng.github.io/files/230202.pdf)
 
 
