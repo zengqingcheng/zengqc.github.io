@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2023-07-29
 venue: 'Fractals'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Q. Zeng, L. Xi. (2023). &quot;Hausdorff dimension of flower networks and Hanoi graphs.&quot; <i>Fractals</i>. 31(7).'
+citation: 'Q. Zeng, L. Xi. (2023). &quot;Hausdorff dimension of flower networks and Hanoi graphs.&quot; <i>Fractals</i>. 31(7) 2350064.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
