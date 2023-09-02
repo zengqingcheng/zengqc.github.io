@@ -1,7 +1,7 @@
 ---
 title: "Hausdorff dimension of a family of networks"
 collection: publications
-permalink: /publication/2023-07-29-Hausdorff-dimension-of-a-family-of-networks
+permalink: /publication/2023-02-02-Hausdorff-dimension-of-a-family-of-networks
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-02-02
 venue: 'Fractals'
