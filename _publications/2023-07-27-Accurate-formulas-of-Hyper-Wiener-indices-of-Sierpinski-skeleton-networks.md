@@ -8,4 +8,4 @@ citation: 'Q. Wang, Q. Zeng. (2023). &quot;Accurate formulas of Hyper-Wiener ind
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/230727.pdf)
+[Download paper here](http://zengqingcheng.github.io/files/230727.pdf)
