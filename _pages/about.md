@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home - Qingcheng Zeng"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
