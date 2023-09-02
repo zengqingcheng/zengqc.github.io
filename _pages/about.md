@@ -11,7 +11,7 @@ redirect_from:
 <br>
 * I'm a postgraduate student at [School of Mathematics and statistics](http://math.nbu.edu.cn/), [Ningbo University](https://www.nbu.edu.cn/), Ningbo, majoring in Mathematics. My research interest includes fractal geometry, complex networks.
 
-[Email](mailto:2111071003@nbu.edu.cn) / [Github](https://github.com/zengqingcheng) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:2111071003@nbu.edu.cn) / [Github](https://github.com/zengqingcheng) / [Wechat](images/wechat.jpg) 
 
 
 
