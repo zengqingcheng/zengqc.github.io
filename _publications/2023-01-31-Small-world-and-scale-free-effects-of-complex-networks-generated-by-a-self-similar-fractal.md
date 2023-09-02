@@ -8,5 +8,5 @@ citation: 'Q. Zeng, K. Cui, W. Ma, L. Xi. (2023). &quot;Small-world and scale-fr
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/230131.pdf)
+[Download paper here](http://zengqingcheng.github.io/files/230131.pdf)
 
