@@ -8,5 +8,5 @@ citation: 'Q. Zeng, L. Xi. (2022). &quot;Zagreb eccentricity indices of Vicsek n
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/221203.pdf)
+[Download paper here](http://zengqingcheng.github.io/files/221203.pdf)
 
